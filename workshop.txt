@@ -1,0 +1,12 @@
+version=1
+id=2839582946
+title=Udderly Cell File Lister
+description=Lists the files that make up a cell within your save folder in a file named after the cell.
+description=
+description=Why? Ever want to add a map after the world was generated? Ever have a map update on your dedicated server and leave weird black boxes where buildings should be instead of updating your world? Don't want to WIPE YOUR SAVE for this?
+description=
+description=With this tool you can generate a list of files to delete (while your server is offline or your game not running) for a given cell. You can use this to remove map mods as well. After deleting said files, simply start your game or server back up and when you go there it will regenerate that cell as if it had never been explored before.
+description=
+description=Files are output in the Zomboid/Lua folder on the client end, and the tool is restricted to admins (if multiplayer) - mostly just to keep from cluttering users' menus.
+tags=Build 41;Interface;Map
+visibility=public

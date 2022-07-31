@@ -1,0 +1,4 @@
+name=Udderly Cell File Lister
+poster=preview.png
+id=UdderlyCellFileLister
+description=Lists the files that make up a cell within your save folder in a file named after the cell.
